@@ -1,2 +1,5 @@
-*.pyc
-gitfiti.sh
+### Python ###
+*.py[cod]
+
+### Tests ###
+tests/repo
