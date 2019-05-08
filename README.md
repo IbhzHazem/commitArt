@@ -16,5 +16,4 @@ $ ./github_board.py -r ~/my/repo -t ./templates/default.tpl -e my@email.com -a c
 * Run program like explained in Usage
 
 
-### Thanks
-* [Eric Romano](https://github.com/gelstudios) for new cool templates ([kitty](templates/kitty.png) and [oneup](templates/oneup.png) from [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti))
+
