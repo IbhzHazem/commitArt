@@ -1,7 +1,7 @@
-# github-board
+# commitArt
 [![Build Status](https://travis-ci.org/bayandin/github-board.png)](https://travis-ci.org/bayandin/github-board)
 
-![Default](templates/default.png)
+![Default](templates/batman.png)
 
 ### Usage
 ```bash
